@@ -51,9 +51,3 @@ A series of plugins for the Calibre ebook management tool that allows circumvent
 
 
 
-blind feel left out of cultural movements (augmented reality, pokemon go)
-acksess can restore a bit of this
-role of persistance, guy who beat zelda http://www.polygon.com/2016/1/4/10707692/blind-gamer-beats-ocarina-of-time-video-legend-of-zelda
-iphone hacks
-what's good for openenss, interoperability, and transparency is good for all of us
-we're in an amazing rhetoical space...we do weird stuff that people are interested in, we are a great and obvious reason for the web and technology in general to be more open and accessible for everyone
