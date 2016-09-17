@@ -1,20 +1,15 @@
-
 # Blind Hackers
 
 Resources for the Blind Hackers talk by Patrick Smyth at [a11y Accessibility Camp, NYC](http://a11ynyc.com/camp/).
 
+[Presentation](http://bit.ly/bhprese)  
+[Twitter](twitter.com/psmyth01)  
+[GitHub](github.com/smythp)  
+patrick smyth 01 @ g mail.com
 
-### What is a hacker?
+[Jargon file definition](http://www.catb.org/jargon/html/H/hacker.html)
 
-First used by the community that developed around the MIT AI research lab, this word has a long history and now means different things to different people. In its original use, the word had a number of meanings, including someone who has an iterative or exploratory approach to programming, is an expert in a particular technical domain, or who uses systems or components of systems in ways not intended by their creators. Over time, but especially in the 90s, the last aspect of the term was picked up by mass media, and now most people think of hackers exclusively as individuals who specialize in gaining illegal access to computers. In programming communities, however, the term is still used in its original sense.
-
-In this talk, I'll be discussing not only hackers who happen to be blind, but also people who hack blindness—that is, who have become experts in circumventing disability and making the inaccessible accessible. Mostly, I'll be using the word hacker in the original sense, but there's an element of the colloquial use of "hacker" here as well, especially when it comes to removing DRM from digital books to enable eyes-free reading.
-
-[Jargon file definition](http://www.catb.org/jargon/html/H/hacker.html]
-
-#### Augmented reality
-
-### Projects
+### Haccessibility Projects
 
 #### [Raspberry VI](http://www.raspberryvi.org/stories/index.html) 
 
@@ -48,6 +43,8 @@ A hack of the Game Boy Advance game Pokemon Crystal that allows a blind player t
 
 A series of plugins for the Calibre ebook management tool that allows circumvention of Digital Rights Management (DRM) restrictions that make it difficult or impossible for the blind to read ebooks.
 
+### What is a hacker?
 
+First used by the community that developed around the MIT AI research lab, this word has a long history and now means different things to different people. In its original use, the word had a number of meanings, including someone who has an iterative or exploratory approach to programming, is an expert in a particular technical domain, or who uses systems or components of systems in ways not intended by their creators. Over time, but especially in the 90s, the last aspect of the term was picked up by mass media, and now most people think of hackers exclusively as individuals who specialize in gaining illegal access to computers. In programming communities, however, the term is still used in its original sense.
 
-
+In this talk, I'll be discussing not only hackers who happen to be blind, but also people who hack blindness—that is, who have become experts in circumventing disability and making the inaccessible accessible. Mostly, I'll be using the word hacker in the original sense, but there's an element of the colloquial use of "hacker" here as well, especially when it comes to removing DRM from digital books to enable eyes-free reading.

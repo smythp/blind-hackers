@@ -1,0 +1,25 @@
+blind feel left out of cultural movements (augmented reality, pokemon go, makerspaces, minicomputers)
+acksess can restore a bit of this
+
+iphone hacks
+what's good for openenss, interoperability, and transparency is good for all of us
+we're in an amazing rhetoical space...we do weird stuff that people are interested in, we are a great and obvious reason for the web and technology in general to be more open and accessible for everyone
+
+
+text, text, text
+movement twoard text
+static sites
+markdown
+bash and unix
+
+http://www.cnn.com/TECH/computing/9811/06/blindprog.idg/
+https://blind.guru/xq.html
+http://www.whitestick.co.uk/blogs.html
+
+drawbacks:
+
+need technical knowledge
+ad hoc, not as maintainable as making mainstream projects
+
+
+role of persistance, guy who beat zelda http://www.polygon.com/2016/1/4/10707692/blind-gamer-beats-ocarina-of-time-video-legend-of-zelda
