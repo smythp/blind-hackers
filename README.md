@@ -2,7 +2,7 @@
 
 Resources for the Blind Hackers talk by Patrick Smyth at [a11y Accessibility Camp, NYC](http://a11ynyc.com/camp/).
 
-[Presentation](http://bit.ly/bhprese)  
+[Presentation](http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html)  
 [Twitter](twitter.com/psmyth01)  
 [GitHub](github.com/smythp)  
 patrick smyth 01 @ g mail.com
