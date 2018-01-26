@@ -1,0 +1,142 @@
+			    _______________
+
+			     BLIND HACKERS
+
+			     Patrick Smyth
+			    _______________
+
+
+
+
+
+Technological trends
+====================
+
+  - Maker movement
+  - Augmented reality
+  - Digital books
+
+
+Left behind?
+============
+
+
+Solutions
+=========
+
+  - Advocacy
+  - Education
+  - Technology?
+
+
+What then?
+==========
+
+
+Haccessibility
+==============
+
+
+What's a hacker?
+================
+
+  - MIT AI lab
+  - Definitions
+  - 90s shift
+
+
+New paths to access
+===================
+
+  - Tinkering
+  - Circumventing
+
+
+Projects
+========
+
+TalkingArch
+~~~~~~~~~~~
+
+  [./images/arch.png]
+
+
+Raspberry VI
+~~~~~~~~~~~~
+
+  [./images/pi.png]
+
+
+Blind Arduino
+~~~~~~~~~~~~~
+
+  [./images/ard.jpg]
+
+
+vOICe
+~~~~~
+
+  [./images/sense.jpg]
+
+
+Pokemon Crystal Access
+~~~~~~~~~~~~~~~~~~~~~~
+
+  [./images/poke.jpg]
+
+
+Emacspeak
+~~~~~~~~~
+
+  [./images/emacs.png]
+
+
+Eloud
+~~~~~
+
+  [./images/gnus.png]
+
+
+DeDRM
+~~~~~
+
+  [./images/lock.jpg]
+
+
+Hacktivism and accessibility
+============================
+
+  - Snowden
+  - Crypto wars
+  - SciHub
+  - Reproducibility
+
+
+Our position
+============
+
+  - Reason for openness
+  - People care
+  - Empowerment
+
+
+Moving forward
+==============
+
+  - Text, text, text
+  - Bootstrapping
+  - Persistence
+
+
+
+
+
+  [./images/zelda.jpg]
+
+
+Get in touch
+============
+
+  - Email: patricksmyth01@gmail.com
+  - Twitter: @psmyth01
+  - GitHub: smythp
